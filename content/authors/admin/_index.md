@@ -1,5 +1,5 @@
 ---
-role: Student/Open source enthusiast
+role: Student / Programmer / Open-source enthusiast
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -9,19 +9,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:nicolas.casais.dassie@gmail.com
+#  - icon: graduation-cap
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nicocasaisd
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nicocasaisd
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
