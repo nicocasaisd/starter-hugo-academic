@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 100%
     icon: wave-pulse
-    icon_pack: fab
+    icon_pack: fas
     name: Audio
   - description: 10%
     icon: linux
