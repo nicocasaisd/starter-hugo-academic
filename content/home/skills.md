@@ -21,8 +21,8 @@ feature:
     icon_pack: fab
     name: Python
   - description: 10%
-    icon: wave-pulse
-    icon_pack: fa-solid
+    icon: wave-square
+    icon_pack: fas
     name: Audio
   - description: 10%
     icon: linux
