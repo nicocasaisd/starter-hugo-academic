@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: waveform
+    icon: wave-pulse
     icon_pack: fab
     name: Audio
   - description: 10%
