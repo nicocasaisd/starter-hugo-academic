@@ -20,9 +20,9 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 10%
     icon: wave-pulse
-    icon_pack: fa
+    icon_pack: fa-solid
     name: Audio
   - description: 10%
     icon: linux
