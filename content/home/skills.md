@@ -19,15 +19,15 @@ feature:
   - description: 90%
     icon: python
     icon_pack: fab
-    name: R
+    name: Python
   - description: 100%
-    icon: chart-line
+    icon: waveform
     icon_pack: fas
-    name: Statistics
+    name: Audio
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: linux
+    icon_pack: fab
+    name: Linux
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
