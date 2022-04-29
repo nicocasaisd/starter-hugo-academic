@@ -28,9 +28,9 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: Coursera - Stanford University
-    organization_url: https://www.coursera.org
+    organization_url: https://www.coursera.org/learn/machine-learning
     title: Introduction to Machine Learning
-    url: 'https://www.coursera.org/learn/machine-learning'
+    url: ''
 #  - certificate_url: https://www.edx.org
 #    date_end: ''
 #    date_start: '2021-01-01'
