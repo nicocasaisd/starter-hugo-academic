@@ -2,3 +2,7 @@
 	path = nicocasaisd.github.io
 	url = https://github.com/nicocasaisd/nicocasaisd.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/nicocasaisd2.github.io.git
+	branch = master
