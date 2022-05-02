@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Nicolas Casais Dassie</title>
+    <link>https://nicocasaisd.github.io/post/</link>
+      <atom:link href="https://nicocasaisd.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicocasaisd.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://nicocasaisd.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Sending a proposal for GSoC 2022</title>
+      <link>https://nicocasaisd.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicocasaisd.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;About me: I’m Nicolás from Argentina. I have a background in acoustics, digital signal processing and audio. In the last couple of years I became interested in deep learning audio applications and would like to combine my previous knowledge with new and exciting developments.&lt;/p&gt;
+&lt;p&gt;I have a bachelor degree in Audiovisual Technologies (UNLA) and I’m currently studying to get a diploma in programming at UTN (Universidad Tecnológica Nacional) in Buenos Aires. I love science and would like to start contributing in better ways to open source software projects that are related to my interests.&lt;/p&gt;
+&lt;p&gt;I found that Asteroid has a great community, there are lots of things to be done and administrators gave me a warm welcome to their project in their Slack channel. Getting involved with this project got me into making my first pull request and having it merged to the source code, so I’m already very happy with the experience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
