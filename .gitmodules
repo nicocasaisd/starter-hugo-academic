@@ -1,0 +1,4 @@
+[submodule "nicocasaisd.github.io"]
+	path = nicocasaisd.github.io
+	url = https://github.com/nicocasaisd/nicocasaisd.github.io.git
+	branch = main
